@@ -12,7 +12,7 @@ app.use(express.json())
 app.use(morgan('dev'))
 
 app.get('/', (req, res)=>{
-  res.send('Server is running')
+  res.send('Server is running 2025')
 })
 // console.log('donde voy a vivir próximamente en',process.env.ADD)
 
