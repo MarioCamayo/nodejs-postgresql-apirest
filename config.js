@@ -5,6 +5,9 @@ export const DB_PASSWORD = process.env.DB_PASSWORD
 export const DB_HOST = process.env.DB_HOST
 export const DB_PORT = process.env.DB_PORT
 
+
+
+
 // console.log('PAÍS', process.env.ADD)
 // console.log('DB_HOST',process.env.DB_HOST)
 // console.log('DB_PORT', DB_PORT)   
